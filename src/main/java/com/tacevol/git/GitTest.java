@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("fuking sbdl!!");
         System.out.println("fuking dsbdl!!");
         System.out.println("fuking 2bdl!!");
+        System.out.println("pull test !!");
     }
 }
